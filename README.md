@@ -4,6 +4,7 @@ MATERIALS:
 2. RFID Tag
 3. Servo motor
 4. RFID tag
+
 Instructions to wiring: https://ai.thestempedia.com/wp-content/uploads/2022/11/RFID-Based-Door-Operating-System-Circuit.png
 
 STEPS TO RUNNING CODE:
