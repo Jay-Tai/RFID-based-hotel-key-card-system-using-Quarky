@@ -3,6 +3,7 @@ MATERIALS:
 1. Quarky board
 2. RFID Tag
 3. Servo motor
+4. RFID tag
    Instructions to wiring: https://ai.thestempedia.com/wp-content/uploads/2022/11/RFID-Based-Door-Operating-System-Circuit.png
 STEPS TO RUNNING CODE:
 1. Open a website called "pictoblox.ai". This is where you will import the .sb3 files into.
